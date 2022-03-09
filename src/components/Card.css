@@ -1,0 +1,52 @@
+.card-venue {
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 40px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    border: 1px solid #D3D3D3;
+}
+
+.card-referee {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    border: 1px solid #D3D3D3;
+}
+
+.stadium_Img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+
+}
+
+.referee_Img {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.rating_Img {
+    width: 90px;
+    height: 30px;
+}
+
+.edit {
+    width: 15px;
+    height: 15px;
+}
+
+.delete {
+    width: 15px;
+    height: 15px;
+}
+
+.pull-right {
+
+    float: right;
+}
